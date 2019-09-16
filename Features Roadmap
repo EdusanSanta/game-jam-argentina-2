@@ -1,0 +1,22 @@
+Features to be added to Spaxe Buxs.
+
+In somewhat order of priority:
+
+Fix Boss Fight
+Make game winnable
+Make game loseable and add a restart option
+Level transitions (and reset base health)
+Coherent z indexes for game objects
+Collisions on the ship
+Add Portal system (make enemies spawn from portal. Make more enemies spawn as swarm from portal. Make portal last x amount of seconds until closed)
+Menu Slider
+Add intro / Ending 
+Add heating bar
+Increase heating speed
+Add SoundFX for: Bug squash
+Vary ship for lvl 3
+Volumes for FX and background music
+
+New Features:
+More Mecha types
+More weapon types
